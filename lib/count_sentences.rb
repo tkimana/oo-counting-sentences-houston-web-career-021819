@@ -3,6 +3,9 @@ require 'pry'
 class String
 
   def sentence?
+   if  Hi!.end_with?(!)
+     true
+    
     
   end
 
