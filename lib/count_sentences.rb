@@ -4,7 +4,7 @@ class String
 
   def sentence?
    if  Hi!.end_with?(!)
-     true
+     return true
     
     
   end
